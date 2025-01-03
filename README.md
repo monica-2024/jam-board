@@ -47,7 +47,7 @@ yarn install
 
 This will install dependencies for both the **client** (frontend) and **server** (backend) directories.
 
-### 3. Setup Environment Variables
+### 3. Setup Environment Variables dkfkd
 
 Create `.env` files in both the root of the project and the `server/` directory to store sensitive environment variables, such as database credentials and JWT secrets.
 
